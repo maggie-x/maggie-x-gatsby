@@ -7,8 +7,8 @@ socialImage: "/media/image-2.jpg"
 
 Hi there!
 
-My name is Maggie, and I'm a final year **Computer Science** student studying at UNSW.
-I'm very passionate and intrigued by tech, and the power it has to make an impact on the world.
+My name is Maggie, and I'm a final year **Computer Science** student studying at UNSW. 🎓
+I'm very passionate and intrigued by tech, and the power it has to make an impact on the world.🌍
 
 I've had quite a bit of experience in front-end development, having worked with React, Angular, Vue, Typescript.
 
