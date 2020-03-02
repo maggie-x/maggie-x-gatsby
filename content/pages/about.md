@@ -19,3 +19,7 @@ In the future, I'm looking to getting into data analytics and data science, hopi
 I also have a creative side of me, which is expressed through my interests in UX/UI design, and my ~~hobby~~passion **dance**, in particular street dance and hiphop culture.
 
 There is such a vibrant global street dance community all connected through one language, and I hope to travel, dance and meet people around the world!
+
+And also, I love to learning languages, and have studied in Chinese and Japanese. 
+
+私のブログへようこそ！
