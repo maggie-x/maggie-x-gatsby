@@ -20,6 +20,10 @@ module.exports = {
       path: '/pages/about'
     },
     {
+      label: 'Experience',
+      path: '/pages/experience'
+    },
+    {
       label: 'Knowledge',
       path: '/pages/knowledge'
     }
