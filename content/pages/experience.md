@@ -3,11 +3,9 @@ title: "Experience"
 template: "page"
 ---
 
-
-C
-C++
-Java
-Javascript
-Python
-Haskell
-
+C <br/>
+C++ <br/>
+Java <br/>
+Javascript <br/>
+Python <br/>
+Haskell <br/>
